@@ -1,0 +1,16 @@
+/Users/WIZ4RD/Desktop/pullpractice/CS321_W4D1_BookAPI/CS321_W4D1_BookAPI/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/WIZ4RD/Desktop/pullpractice/CS321_W4D1_BookAPI/CS321_W4D1_BookAPI/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/WIZ4RD/Desktop/pullpractice/CS321_W4D1_BookAPI/CS321_W4D1_BookAPI/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/WIZ4RD/Desktop/pullpractice/CS321_W4D1_BookAPI/CS321_W4D1_BookAPI/bin/Debug/netcoreapp2.2/MovieApp.deps.json
+/Users/WIZ4RD/Desktop/pullpractice/CS321_W4D1_BookAPI/CS321_W4D1_BookAPI/bin/Debug/netcoreapp2.2/MovieApp.runtimeconfig.json
+/Users/WIZ4RD/Desktop/pullpractice/CS321_W4D1_BookAPI/CS321_W4D1_BookAPI/bin/Debug/netcoreapp2.2/MovieApp.runtimeconfig.dev.json
+/Users/WIZ4RD/Desktop/pullpractice/CS321_W4D1_BookAPI/CS321_W4D1_BookAPI/bin/Debug/netcoreapp2.2/MovieApp.dll
+/Users/WIZ4RD/Desktop/pullpractice/CS321_W4D1_BookAPI/CS321_W4D1_BookAPI/bin/Debug/netcoreapp2.2/MovieApp.pdb
+/Users/WIZ4RD/Desktop/pullpractice/CS321_W4D1_BookAPI/CS321_W4D1_BookAPI/obj/Debug/netcoreapp2.2/MovieApp.csprojAssemblyReference.cache
+/Users/WIZ4RD/Desktop/pullpractice/CS321_W4D1_BookAPI/CS321_W4D1_BookAPI/obj/Debug/netcoreapp2.2/MovieApp.RazorAssemblyInfo.cache
+/Users/WIZ4RD/Desktop/pullpractice/CS321_W4D1_BookAPI/CS321_W4D1_BookAPI/obj/Debug/netcoreapp2.2/MovieApp.RazorAssemblyInfo.cs
+/Users/WIZ4RD/Desktop/pullpractice/CS321_W4D1_BookAPI/CS321_W4D1_BookAPI/obj/Debug/netcoreapp2.2/MovieApp.AssemblyInfoInputs.cache
+/Users/WIZ4RD/Desktop/pullpractice/CS321_W4D1_BookAPI/CS321_W4D1_BookAPI/obj/Debug/netcoreapp2.2/MovieApp.AssemblyInfo.cs
+/Users/WIZ4RD/Desktop/pullpractice/CS321_W4D1_BookAPI/CS321_W4D1_BookAPI/obj/Debug/netcoreapp2.2/MovieApp.RazorTargetAssemblyInfo.cache
+/Users/WIZ4RD/Desktop/pullpractice/CS321_W4D1_BookAPI/CS321_W4D1_BookAPI/obj/Debug/netcoreapp2.2/MovieApp.dll
+/Users/WIZ4RD/Desktop/pullpractice/CS321_W4D1_BookAPI/CS321_W4D1_BookAPI/obj/Debug/netcoreapp2.2/MovieApp.pdb
